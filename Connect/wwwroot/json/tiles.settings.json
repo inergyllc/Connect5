@@ -1,0 +1,55 @@
+{
+  "tilesets": [
+    {
+      "payloadType": "search",
+      "url": "https://oxailistings.azurewebsites.net/api/listings/query",
+      "maps": [
+        {
+          "consumers": [ "all-listings-grid" ],
+          "map": {
+            "name": "all-listings-grid",
+            "logo": ".atbd_listing_image img",
+            "websiteUrl": ".atbd_listing_image a",
+            "authorThumbnail": ".atbd_author a > img",
+            "authorTooltip": ".atbd_author a > span",
+            "featuredBadge": ".atbd_upper_badge span",
+            "title": ".atbd_listing_title a",
+            "starRating": ".atbd_meta.atbd_listing_rating",
+            "price": ".atbd_listing_meta .atbd_listing_price",
+            "openBadge": ".atbd_meta.atbd_badge_open",
+            "address": ".atbd_listing_data_list li:first-child p",
+            "phone": ".atbd_listing_data_list li:nth-child(2) p",
+            "category": ".atbd_listing_category a",
+            "viewCount": ".atbd_content_right .atbd_count span",
+            "posted": ".atbd_listing_data_list li:last-child p"
+          }
+        }
+      ]
+    },
+    {
+      "payloadType": "featured",
+      "url": "https://oxailistings.azurewebsites.net/api/listings/featured",
+      "maps": [
+        {
+          "consumers": [ "index" ],
+          "map": {
+            "name": "featured-tile",
+            "websiteUrl": "figure .atbd_listing_image a",
+            "logo": ".atbd_listing_image img",
+            "authorThumbnail": ".atbd_author a img",
+            "authorTooltip": ".atbd_author span.custom-tooltip",
+            "featuredBadge": "ul.atbd_upper_badge li span",
+            "title": "h4.atbd_listing_title a",
+            "starRating": "span.atbd_meta.atbd_listing_rating",
+            "price": "span.atbd_meta.atbd_listing_price",
+            "address": "p > span.la.la-map-marker",
+            "phone": "p > span.la.la-phone",
+            "posted": "p > span.la.la-calendar-check-o",
+            "category": "div.atbd_listing_category a",
+            "viewCount": "ul.atbd_content_right li.atbd_count"
+          }
+        }
+      ]
+    }
+  ]
+}

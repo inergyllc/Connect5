@@ -1,0 +1,2200 @@
+{
+  "results": [
+    {
+      "text": "",
+      "children": [
+        {
+          "id": ",",
+          "text": " (144)",
+          "count": 144
+        }
+      ]
+    },
+    {
+      "text": "AR",
+      "children": [
+        {
+          "id": "AR,Springdale",
+          "text": "Springdale (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "AZ",
+      "children": [
+        {
+          "id": "AZ,Chandler",
+          "text": "Chandler (1)",
+          "count": 1
+        },
+        {
+          "id": "AZ,Phoenix",
+          "text": "Phoenix (2)",
+          "count": 2
+        },
+        {
+          "id": "AZ,Scottsdale",
+          "text": "Scottsdale (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "CA",
+      "children": [
+        {
+          "id": "CA,Bakersfield",
+          "text": "Bakersfield (3)",
+          "count": 3
+        },
+        {
+          "id": "CA,Los Angeles",
+          "text": "Los Angeles (1)",
+          "count": 1
+        },
+        {
+          "id": "CA,Pleasanton",
+          "text": "Pleasanton (1)",
+          "count": 1
+        },
+        {
+          "id": "CA,Rancho Dominguez",
+          "text": "Rancho Dominguez (1)",
+          "count": 1
+        },
+        {
+          "id": "CA,San Jose",
+          "text": "San Jose (1)",
+          "count": 1
+        },
+        {
+          "id": "CA,Santa Barbara",
+          "text": "Santa Barbara (1)",
+          "count": 1
+        },
+        {
+          "id": "CA,Stockton",
+          "text": "Stockton (1)",
+          "count": 1
+        },
+        {
+          "id": "CA,Ventura",
+          "text": "Ventura (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "CO",
+      "children": [
+        {
+          "id": "CO,Berthoud",
+          "text": "Berthoud (1)",
+          "count": 1
+        },
+        {
+          "id": "CO,Brighton",
+          "text": "Brighton (1)",
+          "count": 1
+        },
+        {
+          "id": "CO,Denver",
+          "text": "Denver (7)",
+          "count": 7
+        },
+        {
+          "id": "CO,Golden",
+          "text": "Golden (1)",
+          "count": 1
+        },
+        {
+          "id": "CO,Grand Junction",
+          "text": "Grand Junction (3)",
+          "count": 3,
+          "selected": true
+        },
+        {
+          "id": "CO,Lakewood",
+          "text": "Lakewood (1)",
+          "count": 1
+        },
+        {
+          "id": "CO,Littleton",
+          "text": "Littleton (1)",
+          "count": 1
+        },
+        {
+          "id": "CO,Sedalia",
+          "text": "Sedalia (1)",
+          "count": 1
+        },
+        {
+          "id": "CO,Trinidad",
+          "text": "Trinidad (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "FL",
+      "children": [
+        {
+          "id": "FL,Boca Raton",
+          "text": "Boca Raton (1)",
+          "count": 1
+        },
+        {
+          "id": "FL,Clearwater",
+          "text": "Clearwater (1)",
+          "count": 1
+        },
+        {
+          "id": "FL,Gainesville",
+          "text": "Gainesville (1)",
+          "count": 1
+        },
+        {
+          "id": "FL,Maitland",
+          "text": "Maitland (1)",
+          "count": 1
+        },
+        {
+          "id": "FL,Mulberry",
+          "text": "Mulberry (2)",
+          "count": 2
+        },
+        {
+          "id": "FL,Plant City",
+          "text": "Plant City (1)",
+          "count": 1
+        },
+        {
+          "id": "FL,Tampa",
+          "text": "Tampa (1)",
+          "count": 1
+        },
+        {
+          "id": "FL,West Palm Beach",
+          "text": "West Palm Beach (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "GA",
+      "children": [
+        {
+          "id": "GA,Alpharetta",
+          "text": "Alpharetta (1)",
+          "count": 1
+        },
+        {
+          "id": "GA,Athens",
+          "text": "Athens (1)",
+          "count": 1
+        },
+        {
+          "id": "GA,Lula",
+          "text": "Lula (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "IA",
+      "children": [
+        {
+          "id": "IA,Newton",
+          "text": "Newton (1)",
+          "count": 1
+        },
+        {
+          "id": "IA,Pella",
+          "text": "Pella (1)",
+          "count": 1
+        },
+        {
+          "id": "IA,Poesta",
+          "text": "Poesta (1)",
+          "count": 1
+        },
+        {
+          "id": "IA,Washington",
+          "text": "Washington (1)",
+          "count": 1
+        },
+        {
+          "id": "IA,Wayne",
+          "text": "Wayne (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "KS",
+      "children": [
+        {
+          "id": "KS,Columbus",
+          "text": "Columbus (1)",
+          "count": 1
+        },
+        {
+          "id": "KS,Derby",
+          "text": "Derby (1)",
+          "count": 1
+        },
+        {
+          "id": "KS,Hill City",
+          "text": "Hill City (1)",
+          "count": 1
+        },
+        {
+          "id": "KS,Madison",
+          "text": "Madison (1)",
+          "count": 1
+        },
+        {
+          "id": "KS,Wichita",
+          "text": "Wichita (3)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "text": "LA",
+      "children": [
+        {
+          "id": "LA,Abbeville",
+          "text": "Abbeville (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Bell City",
+          "text": "Bell City (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Bossier City",
+          "text": "Bossier City (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Broussard",
+          "text": "Broussard (3)",
+          "count": 3
+        },
+        {
+          "id": "LA,Covington",
+          "text": "Covington (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Eunice",
+          "text": "Eunice (2)",
+          "count": 2
+        },
+        {
+          "id": "LA,Harahan",
+          "text": "Harahan (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Kenner",
+          "text": "Kenner (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Lafayette",
+          "text": "Lafayette (7)",
+          "count": 7
+        },
+        {
+          "id": "LA,Lake Charles",
+          "text": "Lake Charles (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Madisonville",
+          "text": "Madisonville (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Monroe",
+          "text": "Monroe (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,New Iberia",
+          "text": "New Iberia (2)",
+          "count": 2
+        },
+        {
+          "id": "LA,Shreveport",
+          "text": "Shreveport (2)",
+          "count": 2
+        },
+        {
+          "id": "LA,Shrevport",
+          "text": "Shrevport (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Sibley",
+          "text": "Sibley (1)",
+          "count": 1
+        },
+        {
+          "id": "LA,Youngsville",
+          "text": "Youngsville (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "MA",
+      "children": [
+        {
+          "id": "MA,Watertown",
+          "text": "Watertown (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "MI",
+      "children": [
+        {
+          "id": "MI,Bloomfield",
+          "text": "Bloomfield (1)",
+          "count": 1
+        },
+        {
+          "id": "MI,East Minneapolis",
+          "text": "East Minneapolis (1)",
+          "count": 1
+        },
+        {
+          "id": "MI,Farmington Hills",
+          "text": "Farmington Hills (1)",
+          "count": 1
+        },
+        {
+          "id": "MI,Sunrise Beach",
+          "text": "Sunrise Beach (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "MN",
+      "children": [
+        {
+          "id": "MN,Bloomington",
+          "text": "Bloomington (1)",
+          "count": 1
+        },
+        {
+          "id": "MN,Duluth",
+          "text": "Duluth (1)",
+          "count": 1
+        },
+        {
+          "id": "MN,Sauk Rapids",
+          "text": "Sauk Rapids (1)",
+          "count": 1
+        },
+        {
+          "id": "MN,St Paul",
+          "text": "St Paul (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "MO",
+      "children": [
+        {
+          "id": "MO,Fifth Floor Chesterfield",
+          "text": "Fifth Floor Chesterfield (1)",
+          "count": 1
+        },
+        {
+          "id": "MO,Kansas City",
+          "text": "Kansas City (1)",
+          "count": 1
+        },
+        {
+          "id": "MO,Springfield",
+          "text": "Springfield (1)",
+          "count": 1
+        },
+        {
+          "id": "MO,St Louis",
+          "text": "St Louis (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "NC",
+      "children": [
+        {
+          "id": "NC,Arden",
+          "text": "Arden (1)",
+          "count": 1
+        },
+        {
+          "id": "NC,Franklin",
+          "text": "Franklin (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "NE",
+      "children": [
+        {
+          "id": "NE,Omaha",
+          "text": "Omaha (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "NM",
+      "children": [
+        {
+          "id": "NM,Albuquerque",
+          "text": "Albuquerque (4)",
+          "count": 4
+        },
+        {
+          "id": "NM,Artesia",
+          "text": "Artesia (21)",
+          "count": 21
+        },
+        {
+          "id": "NM,Ave Carlsbad",
+          "text": "Ave Carlsbad (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Aztec",
+          "text": "Aztec (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Bloomfield",
+          "text": "Bloomfield (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Carlsbad",
+          "text": "Carlsbad (14)",
+          "count": 14
+        },
+        {
+          "id": "NM,Clovis",
+          "text": "Clovis (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Crossroads",
+          "text": "Crossroads (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Eunice",
+          "text": "Eunice (10)",
+          "count": 10
+        },
+        {
+          "id": "NM,Farmington",
+          "text": "Farmington (8)",
+          "count": 8
+        },
+        {
+          "id": "NM,Hobbs",
+          "text": "Hobbs (158)",
+          "count": 158
+        },
+        {
+          "id": "NM,Jal",
+          "text": "Jal (7)",
+          "count": 7
+        },
+        {
+          "id": "NM,Lake Arthur",
+          "text": "Lake Arthur (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Las Cruces",
+          "text": "Las Cruces (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Lincoln",
+          "text": "Lincoln (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Loco Hills",
+          "text": "Loco Hills (3)",
+          "count": 3
+        },
+        {
+          "id": "NM,Loving",
+          "text": "Loving (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Lovington",
+          "text": "Lovington (30)",
+          "count": 30
+        },
+        {
+          "id": "NM,Paso Hobbs",
+          "text": "Paso Hobbs (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Roswell",
+          "text": "Roswell (28)",
+          "count": 28
+        },
+        {
+          "id": "NM,Ruidoso",
+          "text": "Ruidoso (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Santa Fe",
+          "text": "Santa Fe (2)",
+          "count": 2
+        },
+        {
+          "id": "NM,Sante Fe",
+          "text": "Sante Fe (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Socorro",
+          "text": "Socorro (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Tatum",
+          "text": "Tatum (6)",
+          "count": 6
+        },
+        {
+          "id": "NM,Verde Hobbs",
+          "text": "Verde Hobbs (1)",
+          "count": 1
+        },
+        {
+          "id": "NM,Weed",
+          "text": "Weed (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "NV",
+      "children": [
+        {
+          "id": "NV,Las Vegas",
+          "text": "Las Vegas (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "NY",
+      "children": [
+        {
+          "id": "NY,New York",
+          "text": "New York (1)",
+          "count": 1
+        },
+        {
+          "id": "NY,Waterford",
+          "text": "Waterford (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "OH",
+      "children": [
+        {
+          "id": "OH,Cincinnati",
+          "text": "Cincinnati (1)",
+          "count": 1
+        },
+        {
+          "id": "OH,Cinncinati",
+          "text": "Cinncinati (1)",
+          "count": 1
+        },
+        {
+          "id": "OH,Columbus",
+          "text": "Columbus (1)",
+          "count": 1
+        },
+        {
+          "id": "OH,Medina",
+          "text": "Medina (1)",
+          "count": 1
+        },
+        {
+          "id": "OH,Youngstown",
+          "text": "Youngstown (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "OK",
+      "children": [
+        {
+          "id": "OK,Allen",
+          "text": "Allen (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Ave Broken Arrow",
+          "text": "Ave Broken Arrow (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Avenue Tulsa",
+          "text": "Avenue Tulsa (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Bartlesville",
+          "text": "Bartlesville (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Broken Arrow",
+          "text": "Broken Arrow (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Buren Enid",
+          "text": "Buren Enid (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Delaware",
+          "text": "Delaware (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Dover",
+          "text": "Dover (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Edmond",
+          "text": "Edmond (4)",
+          "count": 4
+        },
+        {
+          "id": "OK,El Reno",
+          "text": "El Reno (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Elk City",
+          "text": "Elk City (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Enid",
+          "text": "Enid (2)",
+          "count": 2
+        },
+        {
+          "id": "OK,Guymon",
+          "text": "Guymon (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Mustang",
+          "text": "Mustang (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Norman",
+          "text": "Norman (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Oklahoma City",
+          "text": "Oklahoma City (18)",
+          "count": 18
+        },
+        {
+          "id": "OK,Shawnee",
+          "text": "Shawnee (1)",
+          "count": 1
+        },
+        {
+          "id": "OK,Sulphur",
+          "text": "Sulphur (2)",
+          "count": 2
+        },
+        {
+          "id": "OK,Tulsa",
+          "text": "Tulsa (24)",
+          "count": 24
+        },
+        {
+          "id": "OK,Yukon",
+          "text": "Yukon (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "PA",
+      "children": [
+        {
+          "id": "PA,Allentown",
+          "text": "Allentown (1)",
+          "count": 1
+        },
+        {
+          "id": "PA,Eighty Four",
+          "text": "Eighty Four (1)",
+          "count": 1
+        },
+        {
+          "id": "PA,Hall",
+          "text": "Hall (1)",
+          "count": 1
+        },
+        {
+          "id": "PA,Irwin",
+          "text": "Irwin (1)",
+          "count": 1
+        },
+        {
+          "id": "PA,Jackson Center",
+          "text": "Jackson Center (1)",
+          "count": 1
+        },
+        {
+          "id": "PA,King Of Prussia",
+          "text": "King Of Prussia (1)",
+          "count": 1
+        },
+        {
+          "id": "PA,Loinsville",
+          "text": "Loinsville (1)",
+          "count": 1
+        },
+        {
+          "id": "PA,Somerset",
+          "text": "Somerset (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "SC",
+      "children": [
+        {
+          "id": "SC,Rock Hill",
+          "text": "Rock Hill (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "SD",
+      "children": [
+        {
+          "id": "SD,Sioux Falls",
+          "text": "Sioux Falls (2)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "text": "TN",
+      "children": [
+        {
+          "id": "TN,Crossville",
+          "text": "Crossville (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "TX",
+      "children": [
+        {
+          "id": "TX,A Andrews",
+          "text": "A Andrews (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,A Austin",
+          "text": "A Austin (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,A Lubbock",
+          "text": "A Lubbock (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Abernathy",
+          "text": "Abernathy (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Abilene",
+          "text": "Abilene (115)",
+          "count": 115
+        },
+        {
+          "id": "TX,Access Whitsett",
+          "text": "Access Whitsett (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Ackerly",
+          "text": "Ackerly (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Addison",
+          "text": "Addison (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Albany",
+          "text": "Albany (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Alice",
+          "text": "Alice (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Amarillo",
+          "text": "Amarillo (14)",
+          "count": 14
+        },
+        {
+          "id": "TX,Andrews",
+          "text": "Andrews (56)",
+          "count": 56
+        },
+        {
+          "id": "TX,Angleton",
+          "text": "Angleton (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Anson",
+          "text": "Anson (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Arlington",
+          "text": "Arlington (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Aspermont",
+          "text": "Aspermont (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Austin",
+          "text": "Austin (13)",
+          "count": 13
+        },
+        {
+          "id": "TX,Ave Odessa",
+          "text": "Ave Odessa (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Avoca",
+          "text": "Avoca (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,B Andrews",
+          "text": "B Andrews (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,B Odessa",
+          "text": "B Odessa (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,B Seminole",
+          "text": "B Seminole (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Baird",
+          "text": "Baird (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Ballinger",
+          "text": "Ballinger (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Barker",
+          "text": "Barker (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Barstow",
+          "text": "Barstow (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Bay City",
+          "text": "Bay City (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Beaumont",
+          "text": "Beaumont (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Bedford",
+          "text": "Bedford (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Belton",
+          "text": "Belton (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Ben Sheppard Odessa",
+          "text": "Ben Sheppard Odessa (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Bergheim",
+          "text": "Bergheim (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Big Lake",
+          "text": "Big Lake (16)",
+          "count": 16
+        },
+        {
+          "id": "TX,Big Spring",
+          "text": "Big Spring (35)",
+          "count": 35
+        },
+        {
+          "id": "TX,Blackwell",
+          "text": "Blackwell (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Boerne",
+          "text": "Boerne (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Borger",
+          "text": "Borger (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Brady",
+          "text": "Brady (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Breckenridge",
+          "text": "Breckenridge (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Brenaham",
+          "text": "Brenaham (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Brenham",
+          "text": "Brenham (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Bridgeport",
+          "text": "Bridgeport (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Bronte",
+          "text": "Bronte (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Brookshire",
+          "text": "Brookshire (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Brownfield",
+          "text": "Brownfield (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Brownwood",
+          "text": "Brownwood (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Bryan",
+          "text": "Bryan (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Buffalo Gap",
+          "text": "Buffalo Gap (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,C Kermit",
+          "text": "C Kermit (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Caldwell",
+          "text": "Caldwell (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Canadian",
+          "text": "Canadian (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Cayuga",
+          "text": "Cayuga (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Cedar Hill",
+          "text": "Cedar Hill (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Channelview",
+          "text": "Channelview (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Cisco",
+          "text": "Cisco (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Cleburne",
+          "text": "Cleburne (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Clyde",
+          "text": "Clyde (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Coahoma",
+          "text": "Coahoma (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Coleman",
+          "text": "Coleman (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Colorado City",
+          "text": "Colorado City (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Comanche",
+          "text": "Comanche (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Comfort",
+          "text": "Comfort (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Conroe",
+          "text": "Conroe (7)",
+          "count": 7
+        },
+        {
+          "id": "TX,Converse",
+          "text": "Converse (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Corpus Christi",
+          "text": "Corpus Christi (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Crane",
+          "text": "Crane (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Cypress",
+          "text": "Cypress (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,D Kermit",
+          "text": "D Kermit (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Dallas",
+          "text": "Dallas (43)",
+          "count": 43
+        },
+        {
+          "id": "TX,Dallas Dallas",
+          "text": "Dallas Dallas (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Del Rio",
+          "text": "Del Rio (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Denver City",
+          "text": "Denver City (9)",
+          "count": 9
+        },
+        {
+          "id": "TX,Diboll",
+          "text": "Diboll (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Diego Odessa",
+          "text": "Diego Odessa (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Dripping Springs",
+          "text": "Dripping Springs (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Drive Fort Worth",
+          "text": "Drive Fort Worth (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,E Midland",
+          "text": "E Midland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,E Odessa",
+          "text": "E Odessa (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Eden",
+          "text": "Eden (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,El Dorado",
+          "text": "El Dorado (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,El Paso",
+          "text": "El Paso (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Eldorado",
+          "text": "Eldorado (8)",
+          "count": 8
+        },
+        {
+          "id": "TX,F East Arlington",
+          "text": "F East Arlington (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Falls",
+          "text": "Falls (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Felipe Houston",
+          "text": "Felipe Houston (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Floor Midland",
+          "text": "Floor Midland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Flower Mound",
+          "text": "Flower Mound (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Forsan",
+          "text": "Forsan (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Fort Davis",
+          "text": "Fort Davis (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Fort Stockton",
+          "text": "Fort Stockton (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Fort Worth",
+          "text": "Fort Worth (16)",
+          "count": 16
+        },
+        {
+          "id": "TX,Forth Worth",
+          "text": "Forth Worth (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Fredericksburg",
+          "text": "Fredericksburg (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Fredricksberg",
+          "text": "Fredricksberg (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Friendswood",
+          "text": "Friendswood (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Frisco",
+          "text": "Frisco (6)",
+          "count": 6
+        },
+        {
+          "id": "TX,Frontage Midland",
+          "text": "Frontage Midland (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Ft Worth",
+          "text": "Ft Worth (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Gainsville",
+          "text": "Gainsville (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Gardendale",
+          "text": "Gardendale (7)",
+          "count": 7
+        },
+        {
+          "id": "TX,Garland",
+          "text": "Garland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Georgetown",
+          "text": "Georgetown (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Gilmer",
+          "text": "Gilmer (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Godley",
+          "text": "Godley (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Goldsmith",
+          "text": "Goldsmith (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Graham",
+          "text": "Graham (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Granbury",
+          "text": "Granbury (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Grand Prairie",
+          "text": "Grand Prairie (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Grande Victoria",
+          "text": "Grande Victoria (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Grandfalls",
+          "text": "Grandfalls (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Grapevine",
+          "text": "Grapevine (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Greenville",
+          "text": "Greenville (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Hamlin",
+          "text": "Hamlin (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Harlingen",
+          "text": "Harlingen (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Haslet",
+          "text": "Haslet (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Hawley",
+          "text": "Hawley (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Hillsboro",
+          "text": "Hillsboro (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Holly Lubbock",
+          "text": "Holly Lubbock (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Houston",
+          "text": "Houston (140)",
+          "count": 140
+        },
+        {
+          "id": "TX,Houston Road Houston",
+          "text": "Houston Road Houston (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Humble",
+          "text": "Humble (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Hwy Fort Worth",
+          "text": "Hwy Fort Worth (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,I Seminole",
+          "text": "I Seminole (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Idalou",
+          "text": "Idalou (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Imperial",
+          "text": "Imperial (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Ira",
+          "text": "Ira (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Iraan",
+          "text": "Iraan (6)",
+          "count": 6
+        },
+        {
+          "id": "TX,Irving",
+          "text": "Irving (7)",
+          "count": 7
+        },
+        {
+          "id": "TX,Jacksboro",
+          "text": "Jacksboro (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Joshua",
+          "text": "Joshua (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Juan Kerville",
+          "text": "Juan Kerville (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,K San Angelo",
+          "text": "K San Angelo (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Katy",
+          "text": "Katy (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Keller",
+          "text": "Keller (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Kemah",
+          "text": "Kemah (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Kermit",
+          "text": "Kermit (10)",
+          "count": 10
+        },
+        {
+          "id": "TX,Kerrville",
+          "text": "Kerrville (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Kilgore",
+          "text": "Kilgore (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Kingwood",
+          "text": "Kingwood (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Knox City",
+          "text": "Knox City (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,La Porte",
+          "text": "La Porte (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Lago Vista",
+          "text": "Lago Vista (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Lamesa",
+          "text": "Lamesa (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Lantana",
+          "text": "Lantana (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Laporte",
+          "text": "Laporte (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Lawn",
+          "text": "Lawn (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,League City",
+          "text": "League City (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Lenorah",
+          "text": "Lenorah (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Levelland",
+          "text": "Levelland (27)",
+          "count": 27
+        },
+        {
+          "id": "TX,Lewisville",
+          "text": "Lewisville (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Lindale",
+          "text": "Lindale (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Longview",
+          "text": "Longview (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Lorena",
+          "text": "Lorena (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Lubbock",
+          "text": "Lubbock (68)",
+          "count": 68
+        },
+        {
+          "id": "TX,Lueders",
+          "text": "Lueders (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Lytle",
+          "text": "Lytle (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,M Midland",
+          "text": "M Midland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Madisonville",
+          "text": "Madisonville (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Mansfield",
+          "text": "Mansfield (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Manvel",
+          "text": "Manvel (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Marshall",
+          "text": "Marshall (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,May",
+          "text": "May (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Mccamey",
+          "text": "Mccamey (12)",
+          "count": 12
+        },
+        {
+          "id": "TX,Mckinny",
+          "text": "Mckinny (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Memphis",
+          "text": "Memphis (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Merkel",
+          "text": "Merkel (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Mertzon",
+          "text": "Mertzon (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Midkiff",
+          "text": "Midkiff (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Midland",
+          "text": "Midland (975)",
+          "count": 975
+        },
+        {
+          "id": "TX,Midlothian",
+          "text": "Midlothian (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Monahans",
+          "text": "Monahans (37)",
+          "count": 37
+        },
+        {
+          "id": "TX,Montgomery",
+          "text": "Montgomery (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Muleshoe",
+          "text": "Muleshoe (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,New Caney",
+          "text": "New Caney (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Notrees",
+          "text": "Notrees (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Odessa",
+          "text": "Odessa (661)",
+          "count": 661
+        },
+        {
+          "id": "TX,Orla",
+          "text": "Orla (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Ozona",
+          "text": "Ozona (7)",
+          "count": 7
+        },
+        {
+          "id": "TX,Palestine",
+          "text": "Palestine (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Paradise",
+          "text": "Paradise (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Paris",
+          "text": "Paris (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Pasadena",
+          "text": "Pasadena (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Pearsall",
+          "text": "Pearsall (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Pecos",
+          "text": "Pecos (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Penwell",
+          "text": "Penwell (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Perryton",
+          "text": "Perryton (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Plainview",
+          "text": "Plainview (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Plano",
+          "text": "Plano (7)",
+          "count": 7
+        },
+        {
+          "id": "TX,Point",
+          "text": "Point (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Port",
+          "text": "Port (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Porte",
+          "text": "Porte (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Post",
+          "text": "Post (11)",
+          "count": 11
+        },
+        {
+          "id": "TX,Pottsboro",
+          "text": "Pottsboro (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Prosper",
+          "text": "Prosper (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Pyote",
+          "text": "Pyote (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Q Lubbock",
+          "text": "Q Lubbock (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Ralls",
+          "text": "Ralls (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Rd Houston",
+          "text": "Rd Houston (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Richardson",
+          "text": "Richardson (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Robert Lee",
+          "text": "Robert Lee (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Robstown",
+          "text": "Robstown (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Ropesville",
+          "text": "Ropesville (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Round Rock",
+          "text": "Round Rock (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Row Houston",
+          "text": "Row Houston (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Royse City",
+          "text": "Royse City (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Sabinal",
+          "text": "Sabinal (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,San Angelo",
+          "text": "San Angelo (48)",
+          "count": 48
+        },
+        {
+          "id": "TX,San Antonio",
+          "text": "San Antonio (12)",
+          "count": 12
+        },
+        {
+          "id": "TX,San Saba",
+          "text": "San Saba (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Sanger",
+          "text": "Sanger (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Seagraves",
+          "text": "Seagraves (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Seminole",
+          "text": "Seminole (13)",
+          "count": 13
+        },
+        {
+          "id": "TX,Service Road Stanton",
+          "text": "Service Road Stanton (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Sheffield",
+          "text": "Sheffield (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Sherman",
+          "text": "Sherman (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Slaton",
+          "text": "Slaton (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Snyder",
+          "text": "Snyder (39)",
+          "count": 39
+        },
+        {
+          "id": "TX,Sonora",
+          "text": "Sonora (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Southlake",
+          "text": "Southlake (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Spring",
+          "text": "Spring (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Stafford",
+          "text": "Stafford (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Stamford",
+          "text": "Stamford (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Stanton",
+          "text": "Stanton (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Ste B Midland",
+          "text": "Ste B Midland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Ste B San Marcos",
+          "text": "Ste B San Marcos (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Stephenville",
+          "text": "Stephenville (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Sterling",
+          "text": "Sterling (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Sterling City",
+          "text": "Sterling City (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Stockton",
+          "text": "Stockton (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Sugar Land",
+          "text": "Sugar Land (6)",
+          "count": 6
+        },
+        {
+          "id": "TX,Sugarland",
+          "text": "Sugarland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Suite B Midland",
+          "text": "Suite B Midland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Sundown",
+          "text": "Sundown (6)",
+          "count": 6
+        },
+        {
+          "id": "TX,Sweetwater",
+          "text": "Sweetwater (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,T Snyder",
+          "text": "T Snyder (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Temple",
+          "text": "Temple (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,The Woodlands",
+          "text": "The Woodlands (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Tomball",
+          "text": "Tomball (7)",
+          "count": 7
+        },
+        {
+          "id": "TX,Tuscola",
+          "text": "Tuscola (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Tye",
+          "text": "Tye (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Tyler",
+          "text": "Tyler (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Voca",
+          "text": "Voca (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,W Houston",
+          "text": "W Houston (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,W Midland",
+          "text": "W Midland (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Waco",
+          "text": "Waco (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Waller",
+          "text": "Waller (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Weatherford",
+          "text": "Weatherford (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,West Odessa",
+          "text": "West Odessa (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Wharton",
+          "text": "Wharton (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Whiteface",
+          "text": "Whiteface (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Wichita Falls",
+          "text": "Wichita Falls (4)",
+          "count": 4
+        },
+        {
+          "id": "TX,Wickett",
+          "text": "Wickett (2)",
+          "count": 2
+        },
+        {
+          "id": "TX,Wink",
+          "text": "Wink (3)",
+          "count": 3
+        },
+        {
+          "id": "TX,Winnie",
+          "text": "Winnie (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Winters",
+          "text": "Winters (5)",
+          "count": 5
+        },
+        {
+          "id": "TX,Wolfforth",
+          "text": "Wolfforth (1)",
+          "count": 1
+        },
+        {
+          "id": "TX,Worth",
+          "text": "Worth (18)",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "text": "UT",
+      "children": [
+        {
+          "id": "UT,Fruit Heights",
+          "text": "Fruit Heights (1)",
+          "count": 1
+        },
+        {
+          "id": "UT,Logan",
+          "text": "Logan (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "VA",
+      "children": [
+        {
+          "id": "VA,Dulles",
+          "text": "Dulles (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "WA",
+      "children": [
+        {
+          "id": "WA,Bellingham",
+          "text": "Bellingham (1)",
+          "count": 1
+        },
+        {
+          "id": "WA,Montesano",
+          "text": "Montesano (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "WI",
+      "children": [
+        {
+          "id": "WI,Franksville",
+          "text": "Franksville (1)",
+          "count": 1
+        },
+        {
+          "id": "WI,Milwaukee",
+          "text": "Milwaukee (1)",
+          "count": 1
+        },
+        {
+          "id": "WI,Racine",
+          "text": "Racine (1)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "text": "WY",
+      "children": [
+        {
+          "id": "WY,Casper",
+          "text": "Casper (1)",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
